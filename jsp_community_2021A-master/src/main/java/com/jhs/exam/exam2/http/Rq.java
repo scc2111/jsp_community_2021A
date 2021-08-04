@@ -129,7 +129,7 @@ public class Rq {
 		req.setAttribute(attrName, attrValue);
 	}
 
-	public void replace(String msg, String redirectUri) {
+	public void replace(String msg, String redirectUri) {  // alert 메시지 띄우고 이동
 		println("<script>");
 		printf("alert('%s');\n", msg);
 		printf("location.replace('%s');\n", redirectUri);
