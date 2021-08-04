@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="jsp_community_2021A">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jsp_community_2021A-master/src/main/java"/>
+        <property name="context-root" value="jsp_community_2021A"/>
+        <property name="java-output-path" value="/jsp_community_2021A/bin"/>
+    </wb-module>
+</project-modules>
